@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.section__one{
+    margin:50px;
+}
+
+.section__one__title h1{
+    background-color: #F0A8D0;
+    text-align: center;
+}
+
+.section__two__card{
+    background-color: black;
+    /* height: 300px; */
+    width: 200px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.card__title h1{
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+.card__title h2{
+    color: white;
+    /* padding: 10px; */
+    text-align: center;
+}
+
+.card__description{
+    border: solid whitesmoke 1px;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.card__description p{
+    color: white;
+    padding: 2px;
+    margin: 5px;
+}
+
+.fa-circle-check{
+    margin: 2px;
+}
