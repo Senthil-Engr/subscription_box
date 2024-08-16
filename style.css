@@ -12,6 +12,11 @@
     text-align: center;
 }
 
+.section__two{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
 .section__two__card{
     background-color: black;
     /* height: 300px; */
